@@ -1,0 +1,2 @@
+Dette er blot en tekstfil
+// bemærkning
